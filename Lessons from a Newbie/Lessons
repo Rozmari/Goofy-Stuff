@@ -1,0 +1,40 @@
+## The following are lessons from someone who's been involved with computer usage for around ten years, and programming for around that same timeframe.
+## I've had the unique opportunity to watch the tech world change radically througout my time, from where Ubuntu was just barely usable on home computers in the early 2000s to
+## Where Arch had been so improved that it's even usable by some end-users in the late 2010's. This list is a compilation of lessons and words of wisdom I've either come across or generated myself,
+### and it's my hope that by writing them I'll be able to keep being what I consider to be a programmer with good manners -- Not necessarily a 'good' programmer, though.
+
+
+In the words of Tim Peters --
+
+Beautiful is better than ugly.
+    Try to create beautiful code -- Code that does its job well the first time, elegantly, without an overuse of resources. Beautiful is simple in the programming world, and what's even more beautiful than 
+    than simplicity is usability.
+
+
+Now is better than never, although never is often better than *right* now.
+    Don't wait forever to start programming, but when you do start, don't start without a plan. So often, we get tied up in making something, when we approach the keyboard ready to do it, we hardly have any
+    idea what we're going to say, do, or write, because we haven't planned enough. Even writing down simple and rudimentary ideas while you still /consider writing/ the project in the first place will help
+    you.
+
+Sure, there's more than one way to do things -- But your way should be the best.
+    Don't strive to be original at the cost of usability, and don't be creative for the sake of being creative when it would be easier and more importantly, more EFFICIENT, to stick to the mold. For example,
+    microprocessors are a great idea -- If mono-kernels didn't exist. Don't push creative solutions that don't add new features or make things easier just because you want to be on the grand stage.
+
+Computers make sense, but people will never.
+    So don't get held up when a person works with a computer to make your life harder -- Solve those issues separately. Modular and process-like thinking for computers, human-like thinking for humans.
+
+Anyone can heckle, only a few can advise.
+    And usually, heckling from those that can't advise is dumb.
+
+Heckling can be true.
+    And it's going to be tough figuring out when it is and isn't -- But the protip is, if it seems exceptionally rude or offensive to your efforts or ideas, it probably is true.
+
+Don't be too idealistic to offend pragmatists.
+    Don't be too pragmatic to offend idealists.
+
+Issues can be resolved. Problems will always exist, and can only be circumvented.
+    It's a binary thing.
+
+You might become more computer than man.
+    But you'll never truly be always right, or 100% logical, and it's good to know that.
+
