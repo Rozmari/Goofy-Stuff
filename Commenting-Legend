@@ -1,0 +1,54 @@
+## The following is a legend for a type of commenting syntax designed to make files as easily readable as possible, usable for code, journals, and more.
+
+!! 1. Beginnings.
+
+Beginnings should follow the following format --
+
+## <NAME> - <SIMPLE DESCRIPTION> - <LANGUAGE>
+e.g.
+
+## Taskpy - Python version of TaskScout - Python
+## NotCron -- Not a Cron Tool - Bash
+
+
+!! 2. Directories.
+
+Directories follow this format -- 
+// ## Directory ## //
+## 1. Beginnings - <Simple disc.>
+## 2. Middles - <Simple Disc.>
+### 2.2 - Subtitles - <Simple Disc>
+## 3. Ends - <Simple Disc>
+# CREDIT <name> 2018
+
+Here's what your standard file should look like in terms of formatting --
+
+#!/bin/bash
+## TaskScout - A Replacement for TaskWarrior - BASH
+
+// ## Directory ## //
+## 1. Variables and output files
+## 2. Basic Functions and Useflags
+### 2.1 - Adding
+### 2.2 - Removing
+### 2.3 - Clearing
+## 3. Exit-commands.
+## 4. Random extras
+
+# CREDIT rosemary 2018
+
+foo = $(bar)
+    echo ping google.com
+    other commands people think are legit
+    lamo programming
+bar = foo
+foo == 1
+file = /usr/share/fonts/TFF/gohufont
+
+## Foo uses X to do Y and Z for M. Be careful when you approach that, because blah blah blah. 
+### DO NOT FORGET AAA USAGE
+## Removal of X is codified, examples in documentation
+## The kids aren't all-right.
+
+etc etc etc 
+
